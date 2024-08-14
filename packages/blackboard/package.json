@@ -1,0 +1,29 @@
+{
+  "name": "react-native-blackboard",
+  "version": "0.0.0",
+  "description": "React Native Rich Text",
+  "keywords": [
+    "editor"
+  ],
+  "author": "Damon Turcotte <damon.j.turcotte@gmail.com>",
+  "homepage": "https://github.com/damonturcotte",
+  "license": "MIT",
+  "main": "lib/blackboard.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damonturcotte/blackboard.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/blackboard.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/damonturcotte/blackboard/issues"
+  }
+}
